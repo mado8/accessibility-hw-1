@@ -1,0 +1,201 @@
+/*alligning all content with border, margin and padding*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/*changing background color of the body of the page to white*/
+body {
+    background-color: #d9dcd6;
+}
+/*changing space between heading and other elements, the font, background color, and text color of heading*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/*sets the header to display text in one line and changes the font size*/
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+/*offsetting the color of "seo" in HORISEON header*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+/*changes the page buttons to appear towards the upper right corner, the font size, the font, and the spacing in between them*/
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+/*changes the buttons so they do not appear as a list*/
+.header div ul {
+    list-style-type: none;
+}
+/*changes the list so they display next to one another instead of on top*/
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/*changes the color and text of the three navigation buttons*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*changing the width, height, and overall size/position of the background image set here*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("/Users/madelineadonley/bootcamp/mado-accessibility-hw-1/assets/images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/*changes the font size of all paragraphs*/
+p {
+    font-size: 16px;
+}
+/*changes the content section's display (listed in one line), size, and spacing*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/*changes the pictures with class float left to the left side of the section*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/*changes the pictures with class float right to the right side of the section*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/*changes the height, margin, color, and padding of section as well as the font, and color of the text*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/*changes height of image*/
+.search-engine-optimization img {
+    max-height: 200px;
+}
+/*changes margin and font size of paragraph*/
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*changes the height, margin, color, and padding of section as well as the font, and color of the text*/
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/*changes height of image*/
+.online-reputation-management img {
+    max-height: 200px;
+}
+/*changes margin and font size of paragraph*/
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*changes the height, margin, color, and padding of section as well as the font, and color of the text*/
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/*changes height of image*/
+.social-media-marketing img {
+    max-height: 200px;
+}
+/*changes margin and font size of paragraph*/
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*changes positioning and style of the sidebar*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/*changes margin on text and color*/
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/*changes margin on text and text positioning*/
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*changes margin on image, occupies a seperate space, and changes width of image*/
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/*changes margin on text and color*/
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/*changes margin on text and text positioning*/
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*changes margin on image, occupies a seperate space, and changes width of image*/
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/*changes margin on text and color*/
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/*changes margin on text and text positioning*/
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*changes margin on image, occupies a seperate space, and changes width of image*/
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* changes the padding around the footer reguardless of elements inside, the font, and the allignment of the text*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/*changes the footers font size*/
+.footer h2 {
+    font-size: 20px;
+}
