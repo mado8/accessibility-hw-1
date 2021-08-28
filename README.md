@@ -12,7 +12,8 @@ This repository has a modified codebase to demonstrate the necessity of accessib
 
 ## Sample Image
 
-![Screenshot alt="Sample Image of Webpage"](assets/images/sample-image)
+![Screenshot alt="Sample Image of Webpage"](../mado-accessibility-hw-1/assets/images/sample-image.jpg)
+)
 
 --
 
