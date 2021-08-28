@@ -129,7 +129,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*changes positioning and style of the sidebar*/
+/*changes positioning and style of the sidebar using margin, padding around section, font, height of section, and background color.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
