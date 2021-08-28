@@ -12,7 +12,7 @@ This repository has a modified codebase to demonstrate the necessity of accessib
 
 ## Sample Image
 
-![Sample Image of Webpage](../mado-accessibility-hw-1/assets/images/sample-image.jpg)
+![sample-image](https://user-images.githubusercontent.com/88465484/131233615-f3699018-7934-491f-a52e-cb0f8acc3c02.jpg)
 
 --
 
