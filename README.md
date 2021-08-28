@@ -12,13 +12,19 @@ This repository has a modified codebase to demonstrate the necessity of accessib
 
 ## Sample Image
 
-![Screenshot]()
+![Screenshot alt="Sample Image of Webpage"](assets/images/sample-image)
 
 --
 
 ## Link to Webpage
 
 https://mado8.github.io/mado-accessibility-hw-1/
+
+--
+
+## Link to GitHub repository
+
+https://github.com/mado8/mado-accessibility-hw-1
 
 --
 
