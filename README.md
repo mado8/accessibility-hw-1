@@ -1,4 +1,4 @@
-# mado-accessibility-hw-1 README
+# accessibility-hw-1 README
 
 **Version 1.2.0**
 
