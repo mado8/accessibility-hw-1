@@ -18,8 +18,7 @@ https://github.com/mado8/mado-accessibility-hw-1
 ## Contact 
 
 Madeline Donley 
--
+
 email: madelineadonley@gmail.com
--
+
 phone: 720-614-1655
--
