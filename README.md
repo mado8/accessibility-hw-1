@@ -1,4 +1,4 @@
-# accessibility-hw-1
+# accessibility-webpage
 
 Modifying a codebase to offer greater accessibility.
 
@@ -11,9 +11,9 @@ This repository has a modified codebase to demonstrate the necessity of accessib
 
 ## Links
 
-https://mado8.github.io/mado-accessibility-hw-1/
+https://mado8.github.io/mado-accessibility-webpage/
 
-https://github.com/mado8/mado-accessibility-hw-1
+https://github.com/mado8/mado-accessibility-webpage
 
 ## Contact 
 
