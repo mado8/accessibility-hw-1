@@ -7,7 +7,8 @@ This repository has a modified codebase to demonstrate the necessity of accessib
 
 ## Webpage
 
-![video](./assets/video/accessibility-video.mov)
+![video](
+https://user-images.githubusercontent.com/88465484/140997718-5ef409cd-41f9-4eb9-b7cf-b903dc277d2e.mov)
 
 ## Links
 
