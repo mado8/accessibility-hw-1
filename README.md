@@ -7,13 +7,13 @@ This repository has a modified codebase to demonstrate the necessity of accessib
 
 ## Webpage
 
-![sample-image](https://user-images.githubusercontent.com/88465484/131233615-f3699018-7934-491f-a52e-cb0f8acc3c02.jpg)
+![video](./assets/video/accessibility-video.mov)
 
 ## Links
 
-https://mado8.github.io/mado-accessibility-webpage/
+https://mado8.github.io/accessibility-webpage/
 
-https://github.com/mado8/mado-accessibility-webpage
+https://github.com/mado8/accessibility-webpage
 
 ## Contact 
 
