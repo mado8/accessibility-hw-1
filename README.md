@@ -6,9 +6,7 @@ Modifying a codebase to offer greater accessibility.
 This repository has a modified codebase to demonstrate the necessity of accessibility on deployed webpages, and is practice to meeting accessibility standards in future projects.
 
 ## Webpage
-
-![video](
-https://user-images.githubusercontent.com/88465484/140997718-5ef409cd-41f9-4eb9-b7cf-b903dc277d2e.mov)
+https://user-images.githubusercontent.com/88465484/140997718-5ef409cd-41f9-4eb9-b7cf-b903dc277d2e.mov
 
 ## Links
 
